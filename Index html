@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Delete Account Guide - Delete & Deactivate Social Media Accounts</title>
+  <meta name="description" content="Find official instructions and links to delete or deactivate your Instagram, Facebook, TikTok, X, Snapchat, Reddit or YouTube account.">
+  <meta name="robots" content="index, follow">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header class="header">
+    <div class="container nav">
+      <a href="#" class="logo">
+        <span>✦</span> DeleteGuide
+      </a>
+
+      <button class="menu-btn" id="menuBtn" aria-label="Open menu">☰</button>
+
+      <nav id="navMenu">
+        <a href="#platforms">Platforms</a>
+        <a href="#how">How It Works</a>
+        <a href="#faq">FAQ</a>
+      </nav>
+    </div>
+  </header>
+
+
+  <main>
+
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container hero-content">
+
+        <div class="badge">🔐 No Password Required</div>
+
+        <h1>Delete or Deactivate Your Social Media Account</h1>
+
+        <p>
+          Find the official account deletion or deactivation process
+          for popular social media platforms — quickly and safely.
+        </p>
+
+        <div class="search-box">
+          <span>🔎</span>
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Search Instagram, Facebook, TikTok..."
+            autocomplete="off"
+          >
+        </div>
+
+        <div class="security-note">
+          <strong>🔒 Your privacy comes first.</strong>
+          We never ask for, collect or store your password.
+          You complete the process directly on the official platform.
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- PLATFORMS -->
+    <section class="platform-section" id="platforms">
+      <div class="container">
+
+        <div class="section-heading">
+          <span>POPULAR PLATFORMS</span>
+          <h2>What account do you want to manage?</h2>
+          <p>Select a platform to see its official deletion and deactivation options.</p>
+        </div>
+
+        <div class="platform-grid" id="platformGrid">
+
+
+          <!-- INSTAGRAM -->
+          <article class="platform-card" data-name="instagram">
+            <div class="platform-icon instagram">◎</div>
+
+            <div class="card-content">
+              <h3>Instagram</h3>
+              <p>Delete or deactivate your Instagram account.</p>
+
+              <div class="card-buttons">
+                <a
+                  class="btn btn-primary"
+                  href="https://www.instagram.com/accounts/remove/request/permanent/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Delete Account ↗
+                </a>
+
+                <a
+                  class="btn btn-secondary"
+                  href="https://help.instagram.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Help Guide
+                </a>
+              </div>
+            </div>
+          </article>
+
+
+          <!-- FACEBOOK -->
+          <article class="platform-card" data-name="facebook">
+            <div class="platform-icon facebook">f</div>
+
+            <div class="card-content">
+              <h3>Facebook</h3>
+              <p>Permanently delete or temporarily deactivate Facebook.</p>
+
+              <div class="card-buttons">
+                <a
+                  class="btn btn-primary"
+                  href="https://www.facebook.com/help/224562897555674/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Delete Account ↗
+                </a>
+
+                <a
+                  class="btn btn-secondary"
+                  href="https://www.facebook.com/help/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Help Guide
+                </a>
+              </div>
+            </div>
+          </article>
+
+
+          <!-- TIKTOK -->
+          <article class="platform-card" data-name="tiktok">
+            <div class="platform-icon tiktok">♪</div>
+
+            <div class="card-content">
+              <h3>TikTok</h3>
+              <p>Delete or deactivate your TikTok account.</p>
+
+              <div class="card-buttons">
+                <a
+                  class="btn btn-primary"
+                  href="https://support.tiktok.com/en/account-and-privacy/deleting-an-account/deleting-an-account"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Delete Guide ↗
+                </a>
+
+                <a
+                  class="btn btn-secondary"
+                  href="https://support.tiktok.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Help Center
+                </a>
+              </div>
+            </div>
+          </article>
+
+
+          <!-- X -->
+          <article class="platform-card" data-name="x twitter">
+            <div class="platform-icon x-icon">𝕏</div>
+
+            <div class="card-content">
+              <h3>X (Twitter)</h3>
+              <p>Deactivate your X account and begin the deletion process.</p>
+
+              <div class="card-buttons">
+                <a
+                  class="btn btn-primary"
+                  href="https://help.x.com/en/managing-your-account/how-to-deactivate-x-account"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Delete Guide ↗
+                </a>
+
+                <a
+                  class="btn btn-secondary"
+                  href="https://help.x.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Help Center
+                </a>
+              </div>
+            </div>
+          </article>
+
+
+          <!-- SNAPCHAT -->
+          <article class="platform-card" data-name="snapchat">
+            <div class="platform-icon snapchat">👻</div>
+
+            <div class="card-content">
+              <h3>Snapchat</h3>
+              <p>Deactivate or delete your Snapchat account.</p>
+
+              <div class="card-buttons">
+                <a
+                  class="btn btn-primary"
+                  href="https://accounts.snapchat.com/accounts/delete_account"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Delete Account ↗
+                </a>
+
+                <a
+                  class="btn btn-secondary"
+                  href="https://help.snapchat.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Help Center
+                </a>
+              </div>
+            </div>
+          </article>
+
+
+          <!-- REDDIT -->
+          <article class="platform-card" data-name="reddit">
+            <div class="platform-icon reddit">●</div>
+
+            <div class="card-content">
+              <h3>Reddit</h3>
+              <p>Permanently delete your Reddit account.</p>
+
+              <div class="card-buttons">
+                <a
+                  class="btn btn-primary"
+                  href="https://www.reddit.com/settings/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Account Settings ↗
+                </a>
+
+                <a
+                  class="btn btn-secondary"
+                  href="https://support.reddithelp.com/hc/en-us/articles/204579509-How-do-I-delete-my-account"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Delete Guide
+                </a>
+              </div>
+            </div>
+          </article>
+
+
+          <!-- YOUTUBE -->
+          <article class="platform-card" data-name="youtube">
+            <div class="platform-icon youtube">▶</div>
+
+            <div class="card-content">
+              <h3>YouTube</h3>
+              <p>Hide or permanently delete your YouTube channel.</p>
+
+              <div class="card-buttons">
+                <a
+                  class="btn btn-primary"
+                  href="https://support.google.com/youtube/answer/55759"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Delete Guide ↗
+                </a>
+
+                <a
+                  class="btn btn-secondary"
+                  href="https://studio.youtube.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  YouTube Studio
+                </a>
+              </div>
+            </div>
+          </article>
+
+
+          <!-- COMING SOON -->
+          <article class="platform-card coming-soon">
+            <div class="platform-icon">＋</div>
+
+            <div class="card-content">
+              <h3>More Platforms</h3>
+              <p>More account deletion guides will be added soon.</p>
+
+              <div class="coming-label">COMING SOON</div>
+            </div>
+          </article>
+
+        </div>
+
+        <div class="no-results" id="noResults">
+          <div>🔎</div>
+          <h3>No platform found</h3>
+          <p>Try searching for Instagram, Facebook, TikTok, X, Snapchat, Reddit or YouTube.</p>
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- HOW IT WORKS -->
+    <section class="how-section" id="how">
+      <div class="container">
+
+        <div class="section-heading">
+          <span>SIMPLE & SAFE</span>
+          <h2>How it works</h2>
+        </div>
+
+        <div class="steps">
+
+          <div class="step">
+            <div class="step-number">01</div>
+            <h3>Choose Platform</h3>
+            <p>Select the social media account you want to delete or deactivate.</p>
+          </div>
+
+          <div class="step">
+            <div class="step-number">02</div>
+            <h3>Open Official Page</h3>
+            <p>We send you directly to the platform's official website or help center.</p>
+          </div>
+
+          <div class="step">
+            <div class="step-number">03</div>
+            <h3>Complete the Process</h3>
+            <p>Log in and confirm the action directly with the platform.</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- SAFETY -->
+    <section class="safety-section">
+      <div class="container">
+
+        <div class="safety-box">
+
+          <div class="safety-icon">🔐</div>
+
+          <div>
+            <h2>Never enter your password here</h2>
+
+            <p>
+              DeleteGuide does not need your Instagram, Facebook,
+              TikTok or any other social-media password.
+              Your login details should only be entered on the
+              official platform.
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- FAQ -->
+    <section class="faq-section" id="faq">
+      <div class="container">
+
+        <div class="section-heading">
+          <span>FAQ</span>
+          <h2>Frequently Asked Questions</h2>
+        </div>
+
+        <div class="faq-list">
+
+          <details>
+            <summary>Can this website delete my account automatically?</summary>
+            <p>
+              No. DeleteGuide does not log into your account or perform
+              account deletion on your behalf. It helps you reach the
+              official platform's deletion process.
+            </p>
+          </details>
+
+          <details>
+            <summary>Do you store my password?</summary>
+            <p>
+              No. This website does not ask for or store your social-media
+              password.
+            </p>
+          </details>
+
+          <details>
+            <summary>Is account deletion always permanent?</summary>
+            <p>
+              Deletion rules and recovery periods vary by platform.
+              Always read the platform's final confirmation screen before
+              completing deletion.
+            </p>
+          </details>
+
+          <details>
+            <summary>Should I download my data first?</summary>
+            <p>
+              Yes. If you have photos, videos, posts or other information
+              you want to keep, download or back up your data before
+              permanently deleting your account.
+            </p>
+          </details>
+
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+
+  <footer class="footer">
+    <div class="container footer-content">
+
+      <div>
+        <a href="#" class="logo">
+          <span>✦</span> DeleteGuide
+        </a>
+
+        <p>
+          A simple guide to official social media account
+          deletion and deactivation.
+        </p>
+      </div>
+
+      <div class="footer-links">
+        <a href="#platforms">Platforms</a>
+        <a href="#how">How It Works</a>
+        <a href="#faq">FAQ</a>
+      </div>
+
+    </div>
+
+    <div class="copyright">
+      © 2026 DeleteGuide. For informational purposes only.
+    </div>
+  </footer>
+
+
+  <script src="script.js"></script>
+
+</body>
+</html>
